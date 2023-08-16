@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melik Demirel</h1>
-https://r.resimlink.com/_blVaTQn.png
+<a href="https://resimlink.com/_blVaTQn" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/_blVaTQn.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 <h3 align="center">Hello, I am Muhammed Melik Demirel, a 3rd year Software Engineering student at Sabahattin Zaim University. I am interested in artificial intelligence and robotics. I love taking part in projects, gaining new skills and teamwork. I focus on creating solutions that aim to improve life by pushing the boundaries of technology. I am always open to learning and improving. You can use [demirelmuhammedmelik@gmail.com] or [linkedin.com/in/muhammed-melik-demirel] for contact. Thank you.</h3>
 
 - 📫 How to reach me **demirelmuhammedmelik@gmail.com**
