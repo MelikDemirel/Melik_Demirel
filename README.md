@@ -9,7 +9,7 @@
 <a href="https://kaggle.com/melik demirel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melik demirel" height="30" width="40" /></a>
 <a href="https://instagram.com/melik_demirel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melik_demirel" height="30" width="40" /></a>
 <a href="https://medium.com/@demirelmelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@demirelmelik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dual core processor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dual core processor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dualcoreprocessor185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dual core processor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
